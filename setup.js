@@ -39,4 +39,10 @@ heroku open
 3.1) npm install --save passport passport-google-oauth20
 3.2) Make a new project in Google API manager
 3.3) Sign up for Google+ API
+3.4) authRoutes.js, passport.js key.js
+
+4) MongoDB
+4.1) mLab.com
+4.2) Create new project & new database user
+4.3) Install mongoose -- npm install --save mongoose
 */
