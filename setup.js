@@ -34,4 +34,9 @@ heroku create
 git remote add heroku https://git.heroku.com/hidden-sierra-52233.git
 git push heroku master
 heroku open
+
+3) PassportJS
+3.1) npm install --save passport passport-google-oauth20
+3.2) Make a new project in Google API manager
+3.3) Sign up for Google+ API
 */
